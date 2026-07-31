@@ -1,0 +1,311 @@
+{
+ "source": "1785469778560_اخر_نسخة_بعد_تنفيذ_ملاحظات_م_مصعب.html",
+ "source_sha256": "de43cca05fcb9a833ea40b31c6cc6346f6d84ab5a3ab65cfcea1f4914927490f",
+ "section": "dashboard",
+ "screens_total": 186,
+ "composites_total": 14,
+ "css_bundles": 1,
+ "injections_required": 14,
+ "pages_base": "https://zaineldahaby-ctrl.github.io/oya",
+ "note": "Inject composites via Pages URLs only. raw.githubusercontent serves text/plain and renders source.",
+ "composites": [
+  {
+   "name": "OYA_dash_ar_c61110_01",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_01.html",
+   "screen_ids": [
+    "dash_owner_ar_BASE",
+    "dash_owner_ar_accordion_1",
+    "dash_owner_ar_accordion_2",
+    "dash_owner_ar_accordion_3",
+    "dash_owner_ar_accordion_4",
+    "dash_owner_ar_cr_both_near",
+    "dash_owner_ar_cr_far_future",
+    "dash_owner_ar_cr_far_past",
+    "dash_owner_ar_cr_from_only",
+    "dash_owner_ar_cr_reversed",
+    "dash_owner_ar_cr_single_far",
+    "dash_owner_ar_cr_to_only",
+    "dash_owner_ar_data_empty",
+    "dash_owner_ar_list_toggle_1"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_02",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_02.html",
+   "screen_ids": [
+    "dash_owner_ar_list_toggle_2",
+    "dash_owner_ar_range_7",
+    "dash_owner_ar_range_90",
+    "dash_owner_ar_range_custom",
+    "dash_owner_ar_stats_toggle",
+    "dash_owner_ar_welcome_close",
+    "dash_procure_ar_BASE",
+    "dash_procure_ar_accordion_1",
+    "dash_procure_ar_accordion_2",
+    "dash_procure_ar_accordion_3",
+    "dash_procure_ar_cr_both_near",
+    "dash_procure_ar_cr_far_future",
+    "dash_procure_ar_cr_far_past",
+    "dash_procure_ar_cr_from_only"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_03",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_03.html",
+   "screen_ids": [
+    "dash_procure_ar_cr_reversed",
+    "dash_procure_ar_cr_single_far",
+    "dash_procure_ar_cr_to_only",
+    "dash_procure_ar_list_toggle_1",
+    "dash_procure_ar_list_toggle_2",
+    "dash_procure_ar_range_7",
+    "dash_procure_ar_range_90",
+    "dash_procure_ar_range_custom",
+    "dash_procure_ar_stats_toggle",
+    "dash_procure_ar_welcome_close",
+    "dash_quality_ar_BASE",
+    "dash_quality_ar_accordion_1",
+    "dash_quality_ar_accordion_2",
+    "dash_quality_ar_accordion_3"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_04",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_04.html",
+   "screen_ids": [
+    "dash_quality_ar_accordion_4",
+    "dash_quality_ar_cr_both_near",
+    "dash_quality_ar_cr_far_future",
+    "dash_quality_ar_cr_far_past",
+    "dash_quality_ar_cr_from_only",
+    "dash_quality_ar_cr_reversed",
+    "dash_quality_ar_cr_single_far",
+    "dash_quality_ar_cr_to_only",
+    "dash_quality_ar_list_toggle_1",
+    "dash_quality_ar_list_toggle_2",
+    "dash_quality_ar_range_7",
+    "dash_quality_ar_range_90",
+    "dash_quality_ar_range_custom",
+    "dash_quality_ar_stats_toggle"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_05",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_05.html",
+   "screen_ids": [
+    "dash_quality_ar_welcome_close",
+    "dash_sales_ar_BASE",
+    "dash_sales_ar_accordion_1",
+    "dash_sales_ar_accordion_2",
+    "dash_sales_ar_accordion_3",
+    "dash_sales_ar_accordion_4",
+    "dash_sales_ar_cr_both_near",
+    "dash_sales_ar_cr_far_future",
+    "dash_sales_ar_cr_far_past",
+    "dash_sales_ar_cr_from_only",
+    "dash_sales_ar_cr_reversed",
+    "dash_sales_ar_cr_single_far",
+    "dash_sales_ar_cr_to_only",
+    "dash_sales_ar_range_7"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_06",
+   "lang": "ar",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_06.html",
+   "screen_ids": [
+    "dash_sales_ar_range_90",
+    "dash_sales_ar_range_custom",
+    "dash_sales_ar_stats_toggle",
+    "dash_sales_ar_welcome_close",
+    "dash_viewer_ar_BASE",
+    "dash_viewer_ar_accordion_1",
+    "dash_viewer_ar_accordion_2",
+    "dash_viewer_ar_accordion_3",
+    "dash_viewer_ar_accordion_4",
+    "dash_viewer_ar_cr_both_near",
+    "dash_viewer_ar_cr_far_future",
+    "dash_viewer_ar_cr_far_past",
+    "dash_viewer_ar_cr_from_only",
+    "dash_viewer_ar_cr_reversed"
+   ]
+  },
+  {
+   "name": "OYA_dash_ar_c61110_07",
+   "lang": "ar",
+   "screens": 9,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_ar_c61110_07.html",
+   "screen_ids": [
+    "dash_viewer_ar_cr_single_far",
+    "dash_viewer_ar_cr_to_only",
+    "dash_viewer_ar_list_toggle_1",
+    "dash_viewer_ar_list_toggle_2",
+    "dash_viewer_ar_range_7",
+    "dash_viewer_ar_range_90",
+    "dash_viewer_ar_range_custom",
+    "dash_viewer_ar_stats_toggle",
+    "dash_viewer_ar_welcome_close"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_01",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_01.html",
+   "screen_ids": [
+    "dash_owner_en_BASE",
+    "dash_owner_en_accordion_1",
+    "dash_owner_en_accordion_2",
+    "dash_owner_en_accordion_3",
+    "dash_owner_en_accordion_4",
+    "dash_owner_en_cr_both_near",
+    "dash_owner_en_cr_far_future",
+    "dash_owner_en_cr_far_past",
+    "dash_owner_en_cr_from_only",
+    "dash_owner_en_cr_reversed",
+    "dash_owner_en_cr_single_far",
+    "dash_owner_en_cr_to_only",
+    "dash_owner_en_data_empty",
+    "dash_owner_en_list_toggle_1"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_02",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_02.html",
+   "screen_ids": [
+    "dash_owner_en_list_toggle_2",
+    "dash_owner_en_range_7",
+    "dash_owner_en_range_90",
+    "dash_owner_en_range_custom",
+    "dash_owner_en_stats_toggle",
+    "dash_owner_en_welcome_close",
+    "dash_procure_en_BASE",
+    "dash_procure_en_accordion_1",
+    "dash_procure_en_accordion_2",
+    "dash_procure_en_accordion_3",
+    "dash_procure_en_cr_both_near",
+    "dash_procure_en_cr_far_future",
+    "dash_procure_en_cr_far_past",
+    "dash_procure_en_cr_from_only"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_03",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_03.html",
+   "screen_ids": [
+    "dash_procure_en_cr_reversed",
+    "dash_procure_en_cr_single_far",
+    "dash_procure_en_cr_to_only",
+    "dash_procure_en_list_toggle_1",
+    "dash_procure_en_list_toggle_2",
+    "dash_procure_en_range_7",
+    "dash_procure_en_range_90",
+    "dash_procure_en_range_custom",
+    "dash_procure_en_stats_toggle",
+    "dash_procure_en_welcome_close",
+    "dash_quality_en_BASE",
+    "dash_quality_en_accordion_1",
+    "dash_quality_en_accordion_2",
+    "dash_quality_en_accordion_3"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_04",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_04.html",
+   "screen_ids": [
+    "dash_quality_en_accordion_4",
+    "dash_quality_en_cr_both_near",
+    "dash_quality_en_cr_far_future",
+    "dash_quality_en_cr_far_past",
+    "dash_quality_en_cr_from_only",
+    "dash_quality_en_cr_reversed",
+    "dash_quality_en_cr_single_far",
+    "dash_quality_en_cr_to_only",
+    "dash_quality_en_list_toggle_1",
+    "dash_quality_en_list_toggle_2",
+    "dash_quality_en_range_7",
+    "dash_quality_en_range_90",
+    "dash_quality_en_range_custom",
+    "dash_quality_en_stats_toggle"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_05",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_05.html",
+   "screen_ids": [
+    "dash_quality_en_welcome_close",
+    "dash_sales_en_BASE",
+    "dash_sales_en_accordion_1",
+    "dash_sales_en_accordion_2",
+    "dash_sales_en_accordion_3",
+    "dash_sales_en_accordion_4",
+    "dash_sales_en_cr_both_near",
+    "dash_sales_en_cr_far_future",
+    "dash_sales_en_cr_far_past",
+    "dash_sales_en_cr_from_only",
+    "dash_sales_en_cr_reversed",
+    "dash_sales_en_cr_single_far",
+    "dash_sales_en_cr_to_only",
+    "dash_sales_en_range_7"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_06",
+   "lang": "en",
+   "screens": 14,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_06.html",
+   "screen_ids": [
+    "dash_sales_en_range_90",
+    "dash_sales_en_range_custom",
+    "dash_sales_en_stats_toggle",
+    "dash_sales_en_welcome_close",
+    "dash_viewer_en_BASE",
+    "dash_viewer_en_accordion_1",
+    "dash_viewer_en_accordion_2",
+    "dash_viewer_en_accordion_3",
+    "dash_viewer_en_accordion_4",
+    "dash_viewer_en_cr_both_near",
+    "dash_viewer_en_cr_far_future",
+    "dash_viewer_en_cr_far_past",
+    "dash_viewer_en_cr_from_only",
+    "dash_viewer_en_cr_reversed"
+   ]
+  },
+  {
+   "name": "OYA_dash_en_c61110_07",
+   "lang": "en",
+   "screens": 9,
+   "url": "https://zaineldahaby-ctrl.github.io/oya/composites/OYA_dash_en_c61110_07.html",
+   "screen_ids": [
+    "dash_viewer_en_cr_single_far",
+    "dash_viewer_en_cr_to_only",
+    "dash_viewer_en_list_toggle_1",
+    "dash_viewer_en_list_toggle_2",
+    "dash_viewer_en_range_7",
+    "dash_viewer_en_range_90",
+    "dash_viewer_en_range_custom",
+    "dash_viewer_en_stats_toggle",
+    "dash_viewer_en_welcome_close"
+   ]
+  }
+ ]
+}
