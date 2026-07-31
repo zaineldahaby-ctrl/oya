@@ -2849,7 +2849,8 @@ html:not([data-theme]) .sp-nav a.on .ni,html[data-theme=night] .sp-nav a.on .ni,
 html,body{margin:0;padding:0}</style>
 <style>html,body{margin:0;padding:0}
 .oya-strip{display:flex;flex-direction:column}
-.oya-shot{width:1360px;height:900px;overflow:hidden;position:relative;flex:0 0 auto}
+.oya-shot{width:1360px;height:900px;max-height:900px;overflow:hidden;position:relative;flex:0 0 auto;contain:paint size}
+.oya-shot > *{max-height:900px!important;overflow:hidden!important}
 .oya-shot .fx-wipe,.oya-shot .oya-arch-pop,.oya-shot .oya-bottomnav,.oya-shot .oya-floor,.oya-shot .oya-modal,.oya-shot .oya-scrim,.oya-shot .oya-sheet,.oya-shot .pf-lightbox,.oya-shot .sp-auth,.oya-shot .sp-navscrim,.oya-shot .sp-palette-scrim,.oya-shot .sp-selbar-float,.oya-shot .sp-toasts{position:absolute!important}
 body::after,body::before{display:none!important}
 .oya-shot .sp-side{position:static!important}</style>
